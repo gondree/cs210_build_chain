@@ -1,2 +1,2 @@
-# cs210_compiler_errors
+# Compiler Errors
 A lesson on reading compiler errors
