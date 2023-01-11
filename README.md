@@ -1,2 +1,2 @@
-# compiler errors
-A lesson on reading compiler errors
+# build chain
+A lesson on the build chain and compiler errors
