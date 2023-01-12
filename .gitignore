@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# intermediate artifacts
+*.s
+*.i
+
 # Compiled Object files
 *.slo
 *.lo
